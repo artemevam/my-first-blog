@@ -3,3 +3,4 @@ __pycache__
 mytrash
 db.sqlite3
 .DS_Store
+*~
